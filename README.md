@@ -9,5 +9,5 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](../blob/master/retroarch/overlay/GameBezels/PCEngine/1943 Kai (Japan).png?raw=true)
+![Sample bezel](retroarch/overlay/GameBezels/PCEngine/1943 Kai (Japan).png?raw=true)
 Format: ![Alt Text](URL)
